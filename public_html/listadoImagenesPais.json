@@ -1,0 +1,154 @@
+{
+   "capitales":[
+    {
+        "nombre" : "Madrid",
+        "Comida" : "Cocido Madrileño",
+        "urlComida": "img/comida-tipica-de-madrid.jpg"
+    },
+    {
+        "nombre" : "Barcelona",
+        "Comida" : "Pan con Tomate",
+        "urlComida": "img/Pan-con-Tomate.jpg"
+    },
+    {
+        "nombre" : "Valencia",
+        "Comida" : "Paella valenciana",
+        "urlComida": "img/comida-tipica-valenciana.jpg"
+    },
+    {
+        "nombre" : "Sevilla",
+        "Comida" : "Gazpacho",
+        "urlComida": "img/platos-tipicos-de-sevilla.jpg"
+    },
+    {
+        "nombre" : "Zaragoza",
+        "Comida" : "Ternasco de Aragón",
+        "urlComida": "img/comida-tipica-zaragoza-ternasco.jpg"
+    },
+    {
+        "nombre" : "Málaga",
+        "Comida" : "Espeto de sardinas",
+        "urlComida": "img/comida-tipica-malaga.jpg"
+    },
+    {
+        "nombre" : "Murcia",
+        "Comida" : "Caldero del Mar Menor",
+        "urlComida": "img/comida-tipica-de-murcia.jpg"
+    },
+    {
+        "nombre" : "México D.F",
+        "Comida" : "Quesadilla",
+        "urlComida": "img/quesadilla1.jpg"
+    },
+    {
+        "nombre" : "Ecatepec",
+        "Comida" : "Pancita",
+        "urlComida": "img/pancita_0.jpg"
+    },
+    {
+        "nombre" : "Guadalajara",
+        "Comida" : "Pozole con maíz de cacahuazintle",
+        "urlComida": "img/pozole-con-maiz-de-cacahuazintle.jpg"
+    },
+    {
+        "nombre" : "Puebla",
+        "Comida" : "Chiles en nogada",
+        "urlComida": "img/2.-Chiles-en-nogada.jpg"
+    },
+    {
+        "nombre" : "Juárez",
+        "Comida" : "Burritos",
+        "urlComida": "img/burrito-gastronomia-de-ciudad-juarez.png"
+    },
+    {
+        "nombre" : "Tijuana",
+        "Comida" : "Tacos de carne asada",
+        "urlComida": "img/Tacos-de-carne-asada.jpg"
+    },
+    {
+        "nombre" : "León",
+        "Comida" : "Botillo del Bierzo",
+        "urlComida": "img/botillo-del-bierzo.jpg"
+    },
+    {
+        "nombre" : "Zapopan",
+        "Comida" : "Carne en su jugo",
+        "urlComida": "img/1.-Carne-en-su-jugo.jpg"
+    },
+    {
+        "nombre" : "Buenos Aires",
+        "Comida" : "ASADO ARGENTINO",
+        "urlComida": "img/Asado-argentino-.png"
+    },
+    {
+        "nombre" : "Córdoba",
+        "Comida" : "ALBÓNDIGAS A LA CORDOBESA",
+        "urlComida": "img/Albóndigas-cordobesas-.png"
+    },
+    {
+        "nombre" : "Rosario",
+        "Comida" : "Comida callejera",
+        "urlComida": "img/comida-callejera.jpg"
+    },
+    {
+        "nombre" : "La Plata",
+        "Comida" : "Cazuela de mariscos",
+        "urlComida": "img/cazuela-de-mariscos.jpg"
+    },
+    {
+        "nombre" : "Mar de Plata",
+        "Comida" : "Rabas",
+        "urlComida": "img/rabas-arg.jpg"
+    },
+    {
+        "nombre" : "San Miguel de Tucumán",
+        "Comida" : "Queso de Tafi",
+        "urlComida": "img/queso-de-tafi.jpg"
+    },
+    {
+        "nombre" : "Ciudad de Salta",
+        "Comida" : "Empanadas salteñas",
+        "urlComida": "img/ewmpanadas-saltenas.jpg"
+    },
+    {
+        "nombre" : "Bogotá",
+        "Comida" : "AJIACO",
+        "urlComida": "img/Ajiaco-.png"
+    },
+    {
+        "nombre" : "Medellín",
+        "Comida" : "Bandeja Paisa",
+        "urlComida": "img/plato-colombiano.jpg"
+    },
+    {
+        "nombre" : "Cali",
+        "Comida" : "Sancocho de gallina",
+        "urlComida": "img/a32379ab-65fb-4242-9e07-28fbb087524e.jpg"
+    },
+    {
+        "nombre" : "Barranquilla",
+        "Comida" : "Mojarra frita",
+        "urlComida": "img/mojarra-frita.jpg"
+    },
+    {
+        "nombre" : "Cartagena",
+        "Comida" : "Cazuela de Mariscos",
+        "urlComida": "img/cazuela_de_mariscos_.jpg"
+    },
+    {
+        "nombre" : "Cúcuta",
+        "Comida" : "Mute",
+        "urlComida": "img/mute-cucuta.jpg"
+    },
+    {
+        "nombre" : "Soledad",
+        "Comida" : "Arroz de lisa",
+        "urlComida": "img/arroz-de-lisa.jpg"
+    },
+    {
+        "nombre" : "Ibagué",
+        "Comida" : "Cuchuco",
+        "urlComida": "img/cuchuco_de_trigo.jpg"
+    }
+    ]
+}
